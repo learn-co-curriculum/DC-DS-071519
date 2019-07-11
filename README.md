@@ -10,4 +10,4 @@
 
 ## Module 1 🌱
 | Topic            | Code                | Video                |
-| -----            | ----                | -----                |
+|1. Getting started with Python          | ----                | -----                |
