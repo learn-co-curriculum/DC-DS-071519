@@ -2,7 +2,9 @@
 
 ### Important links 
 
- [student master sheet](https://docs.google.com/spreadsheets/d/1yqry3tqexRMp2HW2yqK3I2ES5qp7HnEEaJzFTzbUugk/edit?usp=sharing)
+[Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
+[Attendance]<- will update on Monday.
+[Class Repository](https://github.com/learn-co-students/DC-DS-071519)
 
 ## Calendar
 
@@ -11,4 +13,4 @@
 ## Module 1 🌱
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-|1. Getting started with Python          | ----                | -----                |
+|   TBD                                  | ----                | -----                |
