@@ -10,7 +10,7 @@
 
 # Module 1 🌱
 
-### Section 1
+### Section 1 - Getting started with data science
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |   TBD                                  | ----                | -----                |
