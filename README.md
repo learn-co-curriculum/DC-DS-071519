@@ -16,4 +16,17 @@
 ### Section 1 - Getting started with data science
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-|   TBD                                  | ----                | -----                |
+|Make the Terminal your Friend| ----                | -----                |
+|Python Fundamentals| ----                | -----                |
+|Python Fundamentals pt.2| ----                | -----                |
+|Intro to Libraries & Numpy | ----                | -----                |
+|Coach Lab Review | ----                | -----                |
+|Pandas pt.1 | ----                | -----                |
+|Pandas pt.2 | ----                | -----                |
+|Pandas Data Cleaning | ----                | -----                |
+|Coach Lab Review | ----                | -----                |
+|Coding Best Practices | ----                | -----                |
+|Visualizations w/ Matplotlib | ----                | -----                |
+|Visualizations w/Seaborn | ----                | -----                |
+|Coach Lab Review | ----                | -----                |
+|Quality Deliverables & Collaborations w/Git | ----                | -----                |
