@@ -17,8 +17,3 @@
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |   TBD                                  | ----                | -----                |
-
-### Section 2
-
-| Topic                                  | Code                | Video                |
-|:---|:---|:---|
