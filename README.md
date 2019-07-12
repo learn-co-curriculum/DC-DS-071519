@@ -1,6 +1,4 @@
-# DC-DS-071519
-
-### Important links 
+## Important links 
 
 [Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
 [Attendance]() <- will update on Monday.
