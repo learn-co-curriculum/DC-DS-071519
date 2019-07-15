@@ -18,7 +18,7 @@
 ### Section 1 - Getting started with data science
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-|Make the Terminal your Friend| [link] (https://github.com/learn-co-students/dc_ds_06_03_19/tree/master/module_1/week_1/day_1_lecture_1_terminal)| [link](https://www.youtube.com/watch?v=Pv9VOqtHfic&feature=youtu.be)|
+|Make the Terminal your Friend| [link](https://github.com/learn-co-students/dc_ds_06_03_19/tree/master/module_1/week_1/day_1_lecture_1_terminal)| [link](https://www.youtube.com/watch?v=Pv9VOqtHfic&feature=youtu.be)|
 |Python Fundamentals| ----                | -----                |
 |Python Fundamentals pt.2| ----                | -----                |
 |Intro to Libraries & Numpy | ----                | -----                |
