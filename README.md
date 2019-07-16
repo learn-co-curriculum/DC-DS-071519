@@ -19,7 +19,7 @@
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |Make the Terminal your Friend| [link](https://github.com/learn-co-students/dc_ds_06_03_19/tree/master/module_1/week_1/day_1_lecture_1_terminal)| [link](https://www.youtube.com/watch?v=Pv9VOqtHfic&feature=youtu.be)|
-|Python Fundamentals| ----                | -----                |
+|Python Fundamentals| [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/1-Module/1-Section/day_2_lecture_1_python-101-assignment-to-loops)  | [link](https://youtu.be/Q1PetZbllno) |
 |Python Fundamentals pt.2| ----                | -----                |
 |Intro to Libraries & Numpy | ----                | -----                |
 |Coach Lab Review | ----                | -----                |
