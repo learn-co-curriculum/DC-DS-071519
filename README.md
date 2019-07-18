@@ -23,7 +23,7 @@
 |Python Fundamentals| [solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/1-Module/1-Section/day_2_lecture_1_python-101-assignment-to-loops)  | [link](https://youtu.be/Q1PetZbllno) |
 |Python Fundamentals pt.2|[solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/1-Module/1-Section/day_3/Python-102-nested-loops-functions-solution.ipynb) |[link](https://youtu.be/0l-eZ5R3gEg)|
 |Intro to Libraries & Numpy | [solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/1-Module/1-Section/day_4_lecture_1_libraries_numpy/intro_to_libraries_numpy_solution.ipynb)|[link]()|
-|Coach Lab Review | ---- | [part.1](https://youtu.be/Tpc7Q-apgEk)[part.2](https://youtu.be/J76gWjMM4q0)|
+|Coach Lab Review | ---- | [part.1](https://youtu.be/Tpc7Q-apgEk), [part.2](https://youtu.be/J76gWjMM4q0)|
 |Pandas pt.1 | ----                | -----                |
 |Pandas pt.2 | ----                | -----                |
 |Pandas Data Cleaning | ----                | -----                |
