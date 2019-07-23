@@ -26,7 +26,7 @@
 |Github + Packages Review | n/a | [part.1](https://youtu.be/Tpc7Q-apgEk), [part.2](https://youtu.be/J76gWjMM4q0)|
 |Pandas pt.1 | [solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/1-Module/1-Section/day_5_lecture_1_pandas/intro_to_pandas.ipynb)| [youtube](https://www.youtube.com/watch?v=EpksoxbLwvM&feature=youtu.be)|
 |Pandas pt.2 | [solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/1-Module/week-2/day-6-pandas-part-2/manipulating_data_with_pandas.ipynb)| [youtube](https://youtu.be/J8ZV9MiuKP0)|
-|Pandas pt.3 | ----                | -----                |
+|Pandas pt.3 |[solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/1-Module/week-2/day-6-pandas-part-2/manipulating_data_with_pandas.ipynb)| [youtube](https://youtu.be/IIDJ8lXUWYM)|
 |Pandas Data Cleaning | ----                | -----                |
 |Coach Lab Review | ----                | -----                |
 |Coding Best Practices | ----                | -----                |
