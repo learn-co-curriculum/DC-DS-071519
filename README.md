@@ -28,8 +28,8 @@
 |Pandas pt.2 | [solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-1/week-2/day-6-pandas-part-2/manipulating_data_with_pandas_sol.ipynb)| [youtube](https://youtu.be/J8ZV9MiuKP0)|
 |Pandas pt.3 |[solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-1/week-2/day-6-pandas-part-2/manipulating_data_with_pandas_sol.ipynb)| [youtube](https://youtu.be/IIDJ8lXUWYM)|
 |Pandas Data Cleaning | ----                | -----                |
-|Coding Best Practices | [link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-1/week-2/day-8-coding-best-practices)                | [youtube](https://youtu.be/CuFrP90BT4s)                |
+|Coding Best Practices | [link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-1/week-2/day-8-coding-best-practices)| [youtube](https://youtu.be/CuFrP90BT4s)                |
 |Visualizations w/ Matplotlib |                | [youtube](https://youtu.be/1LK68oa4580)                |
-|Visualizations w/Seaborn | ----                | -----                |
+|Visualizations w/Seaborn |[link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-1/week-2/day_9_visualizations_seaborn)| [Slide Decks](https://docs.google.com/presentation/d/1uICq6Rqxu_YqZvreG-82QMTTV3xPXSC0lrjHRqfDuRo/edit#slide=id.g5b7079e757_0_0)|
 |Coach Lab Review | ----                | -----                |
-|Quality Deliverables & Collaborations w/Git | ----                | -----                |
+|Quality Deliverables| ----                | -----                |
