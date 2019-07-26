@@ -33,3 +33,4 @@
 |Visualizations w/Seaborn |[link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-1/week-2/day_9_visualizations_seaborn)| [Slide Decks](https://docs.google.com/presentation/d/1uICq6Rqxu_YqZvreG-82QMTTV3xPXSC0lrjHRqfDuRo/edit#slide=id.g5b7079e757_0_0)|
 |Dealing with Missing Data - Lab Review|[solution](https://github.com/learn-co-students/dsc-dealing-missing-data-lab-dc-ds-071519/tree/solution)|[part.1](https://youtu.be/8yIveLxS6xE), [part.2](https://youtu.be/8rLn1p_ciLc)|
 |Quality Deliverables| ----                | -----                |
+|Partner Gitflow Lecture| |[youtube](https://youtu.be/Ox_zH3xYsvM)|
