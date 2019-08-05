@@ -36,4 +36,7 @@
 |Partner Gitflow Lecture| |[youtube](https://youtu.be/Ox_zH3xYsvM)|
 |SQL | [link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-2/week-1/day_1_sql_pandas)| youtube|
 |Object Oriented Programing|[link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-2/week-1/day_2_object_oriented_programming)|youtube|
-
+|JSON & APIs|link|youtube|
+|HTML, CSS, Webscraping|link|youtube|
+|More SQL|link|youtube|
+|NoSQL & MongoDB|link|youtube|
