@@ -34,3 +34,6 @@
 |Dealing with Missing Data - Lab Review|[solution](https://github.com/learn-co-students/dsc-dealing-missing-data-lab-dc-ds-071519/tree/solution)|[part.1](https://youtu.be/8yIveLxS6xE), [part.2](https://youtu.be/8rLn1p_ciLc)|
 |Quality Deliverables| ----                | -----                |
 |Partner Gitflow Lecture| |[youtube](https://youtu.be/Ox_zH3xYsvM)|
+|SQL | [link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-2/week-1/day_1_sql_pandas)| youtube|
+|Object Oriented Programing|[link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-2/week-1/day_2_object_oriented_programming)|youtube|
+
