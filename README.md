@@ -34,8 +34,8 @@
 |Dealing with Missing Data - Lab Review|[solution](https://github.com/learn-co-students/dsc-dealing-missing-data-lab-dc-ds-071519/tree/solution)|[part.1](https://youtu.be/8yIveLxS6xE), [part.2](https://youtu.be/8rLn1p_ciLc)|
 |Quality Deliverables| ----                | -----                |
 |Partner Gitflow Lecture| |[youtube](https://youtu.be/Ox_zH3xYsvM)|
-|SQL | [link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-2/week-1/day_1_sql_pandas)| youtube|
-|Object Oriented Programing|[link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-2/week-1/day_2_object_oriented_programming)|youtube|
+|SQL | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-1/day_1_sql_pandas/sql-to-pandas-apm.ipynb)|[youtube](https://www.youtube.com/watch?v=z2Wql9RqHag&list=PLc6AmvC5ZybwR4g9fZnGYV6bs-zaJ7kdu&index=11&t=0s)|
+|Object Oriented Programing|[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-1/day_2_object_oriented_programming/OOP-part-1-lexicon.ipynb)|youtube|
 |JSON & APIs|link|youtube|
 |HTML, CSS, Webscraping|link|youtube|
 |More SQL|link|youtube|
