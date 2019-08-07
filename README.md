@@ -35,8 +35,7 @@
 |Partner Gitflow Lecture| |[youtube](https://youtu.be/Ox_zH3xYsvM)|
 
 
-# Module 2 :herb:
-
+# Module 2 🌿
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |SQL | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-1/day_1_sql_pandas/sql-to-pandas-apm.ipynb)|[youtube](https://www.youtube.com/watch?v=z2Wql9RqHag&list=PLc6AmvC5ZybwR4g9fZnGYV6bs-zaJ7kdu&index=11&t=0s)|
