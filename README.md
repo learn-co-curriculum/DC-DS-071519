@@ -38,5 +38,5 @@
 |Object Oriented Programing|[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-1/day_2_object_oriented_programming/OOP-part-1-lexicon.ipynb)|youtube|
 |JSON & APIs|link|youtube|
 |HTML, CSS, Webscraping|link|youtube|
-|More SQL|link|youtube|
+|More SQL|[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-2/day_3_more_sql/more-sql.ipynb)|[youtube](https://youtu.be/qFCMbO1dodE)|
 |NoSQL & MongoDB|link|youtube|
