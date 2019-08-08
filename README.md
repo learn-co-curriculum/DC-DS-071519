@@ -43,4 +43,4 @@
 |JSON & APIs|[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-1/day_2_object_oriented_programming/OOP-part-1-lexicon.ipynb)|youtube|
 |HTML, CSS, Webscraping|[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-2/day_2_html_css_webscraping/scraping-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=MtoJY3vjP9E)|
 |More SQL|[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-2/day_3_more_sql/more-sql-enkeboll.ipynb)|[youtube](https://youtu.be/qFCMbO1dodE)|
-|NoSQL & MongoDB|[link](hhttps://github.com/learn-co-students/dc-ds-071519/tree/master/Module-2/week-2/day_4_nosql_mongo)   | [youtube](https://www.youtube.com/watch?v=aQm2sv_3XHA)   |
+|NoSQL & MongoDB|[link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-2/week-2/day_4_nosql_mongo)   | [youtube](https://www.youtube.com/watch?v=aQm2sv_3XHA)   |
