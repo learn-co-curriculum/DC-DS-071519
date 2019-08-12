@@ -44,3 +44,10 @@
 |HTML, CSS, Webscraping|[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-2/day_2_html_css_webscraping/scraping-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=MtoJY3vjP9E)|
 |More SQL|[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-2/day_3_more_sql/more-sql-enkeboll.ipynb)|[youtube](https://youtu.be/qFCMbO1dodE)|
 |NoSQL & MongoDB|[link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-2/week-2/day_4_nosql_mongo)   | [youtube](https://www.youtube.com/watch?v=aQm2sv_3XHA)   |
+
+
+# Module 3 🌿
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
+|Set Theory and Probability | [solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-3/week-1/day-1_set_theory_and_probability/Sets%20%26%20Probability-for_0715_mmitchell.ipynb) |[youtube](https://youtu.be/tz0hu99lyXo)
+
