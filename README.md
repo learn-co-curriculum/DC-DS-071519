@@ -49,5 +49,22 @@
 # Module 3 🌿
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-|Set Theory and Probability | [solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-3/week-1/day-1_set_theory_and_probability/Sets%20%26%20Probability-for_0715_mmitchell.ipynb) |[youtube](https://youtu.be/tz0hu99lyXo)
+|Set Theory and Probability | [solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-3/week-1/day-1_set_theory_and_probability/Sets%20%26%20Probability-for_0715_mmitchell.ipynb) |[youtube](https://youtu.be/tz0hu99lyXo)|
+| Distributions | [ppt](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-3/week-1/day-2_distributions/2019-07-19%20Distributions%20Lecture.pdf)    |[youtube](https://youtu.be/ZEHFJnkrMxc)|
+|Sampling & Central Limit|       |         |
+|Power & Effect|        |           |
+|A/B Testing & ANOVA|        |           |
 
+
+# Module 4 🌿
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
+
+
+# Module 5 🌿
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
+
+# Module 6 🌿
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
