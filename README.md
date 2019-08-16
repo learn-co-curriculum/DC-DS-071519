@@ -53,6 +53,7 @@
 | Distributions | [ppt](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-3/week-1/day-2_distributions/2019-07-19%20Distributions%20Lecture.pdf)    |[youtube](https://youtu.be/ZEHFJnkrMxc)|
 |Sampling & Central Limit|       |         |
 |Hypothesis Testing|       | [youtube](https://youtu.be/V_4C6sjXlks)       |
+|Two Sample TTest Coach Lab| [link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-3/week-1/day-4-coach-review)| [youtube](https://youtu.be/eYKt2ShvFbc)|
 |Power & Effect|        |           |
 |A/B Testing & ANOVA|        |           |
 
