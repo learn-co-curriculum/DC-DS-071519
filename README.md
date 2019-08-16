@@ -35,7 +35,7 @@
 |Partner Gitflow Lecture| |[youtube](https://youtu.be/Ox_zH3xYsvM)|
 
 
-# Module 2 ☘️
+# Module 2 🌿
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |SQL | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-2/week-1/day_1_sql_pandas/sql-to-pandas-apm.ipynb)|[youtube](https://www.youtube.com/watch?v=z2Wql9RqHag&list=PLc6AmvC5ZybwR4g9fZnGYV6bs-zaJ7kdu&index=11&t=0s)|
@@ -46,7 +46,7 @@
 |NoSQL & MongoDB|[link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-2/week-2/day_4_nosql_mongo)   | [youtube](https://www.youtube.com/watch?v=aQm2sv_3XHA)   |
 
 
-# Module 3 🍀
+# Module 3 ☘️
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |Set Theory and Probability | [solution](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-3/week-1/day-1_set_theory_and_probability/Sets%20%26%20Probability-for_0715_mmitchell.ipynb) |[youtube](https://youtu.be/tz0hu99lyXo)|
@@ -57,7 +57,7 @@
 |A/B Testing & ANOVA|        |           |
 
 
-# Module 4 🌿
+# Module 4 🍀
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 
