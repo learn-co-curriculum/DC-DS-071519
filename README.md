@@ -1,7 +1,6 @@
 ## Important links 
 
 [Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
-[Attendance](https://docs.google.com/spreadsheets/d/1Gh6lVjdON4BlypWi0kg5J8wmOp5wA8lYEY9NNno8NNE/edit#gid=0)
 [Class Repository](https://github.com/learn-co-students/DC-DS-071519)
 [Blogs](https://docs.google.com/spreadsheets/d/1_htTQYrndRnM9ZdhsKnGcZqKLJ3sPcOWGold7qMhFpM/edit#gid=0)
 [Office Hours w/ Marisa](https://calendar.google.com/calendar/selfsched?sstoken=UU5wV2d1aW1QMFVofGRlZmF1bHR8ODY0MjExZDE2YjRjNTMzMWNhNDZlODExM2NkOWI0MDg)
