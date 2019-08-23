@@ -60,12 +60,18 @@
 # Module 4 🍀
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
+|Intro to Linear Regression| | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 
 # Module 5 🌳
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-|Intro to Linear Regression| | |
 | | | |
 | | | |
 | | | |
