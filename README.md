@@ -4,7 +4,7 @@
 [Class Repository](https://github.com/learn-co-students/DC-DS-071519)
 [Blogs](https://docs.google.com/spreadsheets/d/1_htTQYrndRnM9ZdhsKnGcZqKLJ3sPcOWGold7qMhFpM/edit#gid=0)
 [Office Hours w/ Marisa](https://calendar.google.com/calendar/selfsched?sstoken=UU5wV2d1aW1QMFVofGRlZmF1bHR8ODY0MjExZDE2YjRjNTMzMWNhNDZlODExM2NkOWI0MDg)
-[Office Hours w/ Shreya]()
+[Office Hours w/ Shreya](https://calendar.google.com/calendar/selfsched?sstoken=UUNaR1V6Q1drN3BZfGRlZmF1bHR8MDg3MDk5NTNhYzIyYzRmNTQ2ZGZkMTgzMTJhMzU1YmM)
 
 
 
