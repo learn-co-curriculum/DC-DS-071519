@@ -60,13 +60,17 @@
 # Module 4 🍀
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-|Intro to Linear Regression| | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+|Intro to Linear Regression|[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-4/Intro%20to%20regression.ipynb) | |
+|Multiple Regression |[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-4/week-1/day-2-multiple-regression/multivariable-linear-regression.ipynb) | |
+|Check Your Assumptions |--- |--- |
+|The Math in the Machine |[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-4/week-1/day_3_maths/algebra-calc.ipynb) | |
+|Feature Engineering |[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-4/week-1/day_4_model_extensions/Enhancing%20Regression.ipynb) | |
+|Regularization |[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-4/week_2/regularization/regularization.ipynb) | |
+|Time Series Part I |[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-4/week_2/time-series/part-1-definitions/time_series_intro.ipynb) | |
+|Time Series Part 2 |[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-4/week_2/time-series/part-2-application/TimeSeriesAnalysis.ipynb) | |
+|Bring it all Together | | |
+|Coach Lab | | |
+|Data Science Communication | | |
 
 
 # Module 5 🌳
