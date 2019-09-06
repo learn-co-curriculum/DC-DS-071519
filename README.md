@@ -68,8 +68,8 @@
 |Regularization |[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-4/week_2/regularization/regularization.ipynb) | |
 |Time Series Part I |[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-4/week_2/time-series/part-1-definitions/time_series_intro.ipynb) |[YouTube](https://www.youtube.com/watch?v=PA_mu6qNxA4&feature=youtu.be) |
 |Time Series Part 2 |[link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-4/week_2/time-series/part-2-application/TimeSeriesAnalysis.ipynb) |[YouTube](https://www.youtube.com/watch?v=wO85yDEaEEA&feature=youtu.be) |
-|Bring it all Together | | |
-|Coach Lab | | |
+|Bring it all Together |[slides](https://docs.google.com/presentation/d/1XWem6dkGahIE-QsD8ITSR9FXVSOVZRlwvE5xO-Ed44Q/edit?usp=sharing) |--- |
+|Coach Lab |[link](https://github.com/learn-co-students/dc-ds-071519/tree/master/Module-4/week_2/Regression%20Coach%20Lab) | |
 |Data Science Communication | | |
 
 
