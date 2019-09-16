@@ -6,22 +6,6 @@
 [Office Hours w/ Marisa](https://calendar.google.com/calendar/selfsched?sstoken=UU5wV2d1aW1QMFVofGRlZmF1bHR8ODY0MjExZDE2YjRjNTMzMWNhNDZlODExM2NkOWI0MDg)
 [Office Hours w/ Shreya](https://calendar.google.com/calendar/selfsched?sstoken=UUNaR1V6Q1drN3BZfGRlZmF1bHR8MDg3MDk5NTNhYzIyYzRmNTQ2ZGZkMTgzMTJhMzU1YmM)
 
-|  **Name\blog #** | **1** | **2** | **3** | **4** |
-| :---: | --- | --- | --- | --- |
-|  Kyle | https://medium.com/@khayes847/3fbbf8781168 | https://medium.com/@khayes847/20c0b3e0eb33 | https://medium.com/@khayes847/explaining-random-forest-by-cataloging-my-batman-movie-opinions-how-i-found-a-way-to-make-data-e5bb445ca8fe |  |
-|  Peter | https://medium.com/@peter.haferl/the-ethical-responsibilities-of-data-visualization-4d12b7c9640d | https://medium.com/@peter.haferl/enhancing-class-utility-in-python-with-special-methods-af557c6741e6 | https://medium.com/p/bca72baed2e3/edit |  |
-|  Xin | https://medium.com/@powergascan/curses-in-public-data-10-handy-tricks-in-data-cleaning-and-manipulation-5bb0387f12fd | https://medium.com/@powergascan/dont-settle-with-apis-requests-or-even-bs4-try-selenium-ec7a419793f4 | https://medium.com/@powergascan/the-dots-between-implementation-and-math-for-ols-10a145b0f28e |  |
-|  Ramin | https://medium.com/@ramin.ostad/what-is-a-variable-in-python-7f26891a4797 | https://medium.com/@ramin.ostad/decluttering-your-workspace-with-jupyter-labs-482617e125c3?sk=3c9ea9eb03bf3c66b0f624b7af7d2655 | https://medium.com/@ramin.ostad/6f92bef9635b |  |
-|  William | https://medium.com/@will.a.sundstrom/better-living-through-shell-functions-df5eb2825da | https://medium.com/@will.a.sundstrom/a-little-bit-of-graph-theory-379f5aa4140c?sk=2bb59ff7bd79bbed9e5546044ec71dfc | https://medium.com/@will.a.sundstrom/the-origins-of-the-normal-distribution-f64e1575de29 |  |
-|  Melissa | https://medium.com/@m.rodriguezlegrand/from-sql-to-pandas-e4be538fa435 | https://medium.com/@m.rodriguezlegrand/analyzing-fertility-rate-data-part-1-9d22309dd8 | https://medium.com/@m.rodriguezlegrand/analyzing-fertility-rate-data-part-2-827c1c468d75 |  |
-|  Ian | https://medium.com/@ian.reinert/the-pitfalls-of-pep-8-b6108b006ed9 | https://medium.com/@ian.reinert/sir-not-appearing-in-this-film-6039d997ec01 | https://medium.com/p/4eeef096068d/edit |  |
-|  Yijing | https://medium.com/@msyli1517/432abc1d9772 | https://medium.com/@msyli1517/what-can-you-do-with-datetime-object-in-python-76fa5ed6af47?sk=df733bc1f67c1275e3be0a16a5dbb944 | https://medium.com/p/d4dfb77d648f/edit |  |
-|  Sisay | https://medium.com/@sisay.filate/the-colorful-capital-1d82c111f3ec | https://medium.com/p/256542df4700/edit | https://medium.com/p/69f58ffd252e/edit |  |
-|  Sonia | https://medium.com/@sonia.mahop/why-did-i-decide-to-learn-data-science-665912cd2c94 | https://medium.com/@sonia.mahop/mathematics-in-data-science-70321b4bb4c7 |  |  |
-|  Kaleb | https://medium.com/@kalebnyquist/making-sense-of-state-based-versus-object-oriented-programming-in-the-pyplot-module-175ff15bd01d | https://medium.com/@kalebnyquist/the-importance-of-people-driven-data-and-how-to-get-it-520fdaf250cc | https://medium.com/@kalebnyquist/from-data-sets-to-data-settings-an-overview-of-all-data-are-local-thinking-critically-in-a-ce410145a856 |  |
-|  Cory | https://medium.com/@gough.cory/performance-of-numpy-array-vs-python-list-194c8e283b65 | https://medium.com/@gough.cory/understanding-python-namespaces-through-recursion-c921cbd4e522?sk=933c0e6fe165343e10392057674d8ea7 | https://medium.com/p/b2949e6bcd76/edit |  |
-|  Marissa | https://medium.com/@marissaleppes/my-journey-to-data-science-a8bbef48ea5f | https://medium.com/@meppes/how-a-chess-playing-computer-thinks-about-its-next-move-8f028bd0e7b1 | https://medium.com/p/537f2ca65303/edit |  |
-|  Michelle | https://medium.com/@michellekimphd/seeking-factfulness-f93368b53e63 | https://medium.com/@michellekimphd/iterators-in-python-d5c580fdb55f |  |  |
 
 ## Calendar
 
