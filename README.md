@@ -76,10 +76,9 @@
 # Module 5 🌳
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-| | | |
-| | | |
-| | | |
-| | | |
+| Intro to Classification | [link] (https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-1/day-1/classficiation_confusion_roc/classification.ipynb)| |
+| Logistic Regression | [link] (https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-1/day-1/logistic_regression/Logistic%20Regression.ipynb) | |
+| k Nearest Neighbors | [link] (https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-1/day-2/knn/knn_classification.ipynb) | |
 | | | |
 | | | |
 
