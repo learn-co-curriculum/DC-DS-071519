@@ -75,12 +75,13 @@
 # Module 5 🌳
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-| Intro to Classification | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-1/day-1/classficiation_confusion_roc/classification.ipynb)| [link](https://youtu.be/q4gZRksk-9k) |
+| Intro to Classification | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-1/day-1/classficiation_confusion_roc/classification.ipynb)| [YouTube](https://youtu.be/q4gZRksk-9k) |
 | Logistic Regression | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-1/day-1/logistic_regression/Logistic%20Regression.ipynb) | |
-| k-Nearest Neighbors | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-1/day-2/knn/knn_classification.ipynb) | [link](https://youtu.be/9c7kLkFA2vU) |
-| Decision Trees | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/Decision_trees/Decisicion_trees.ipynb) | [link](https://youtu.be/WqPjlXi3NuM) |
+| k-Nearest Neighbors | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-1/day-2/knn/knn_classification.ipynb) | [YouTube](https://youtu.be/9c7kLkFA2vU) |
+| Decision Trees | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/Decision_trees/Decisicion_trees.ipynb) | [YouTube](https://youtu.be/WqPjlXi3NuM) |
 | Random Forests | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/random_forests/Random_Forests.ipynb) | |
-| Support Vector Machine | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/svm/SVM.ipynb) | [link](https://youtu.be/rXYcVEUL4gk) |
+| Support Vector Machine | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/svm/SVM.ipynb) | [YouTube](https://youtu.be/rXYcVEUL4gk) |
+| Principal Components Analysis | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/day-3-pca/Principal-Component-Analysis.ipynb) |  |
 
 # Module 6 🦚
 | Topic                                  | Code                | Video                |
