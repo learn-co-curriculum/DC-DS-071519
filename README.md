@@ -81,7 +81,7 @@
 | Decision Trees | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/Decision_trees/Decisicion_trees.ipynb) | [YouTube](https://youtu.be/WqPjlXi3NuM) |
 | Random Forests | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/random_forests/Random_Forests.ipynb) | |
 | Support Vector Machine | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/svm/SVM.ipynb) | [YouTube](https://youtu.be/rXYcVEUL4gk) |
-| Principal Components Analysis | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/day-3-pca/Principal-Component-Analysis.ipynb) |  |
+| Principal Components Analysis | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/day-3-pca/Principal-Component-Analysis.ipynb) | [YouTube](https://youtu.be/nxki7yPvS5Q) |
 
 # Module 6 🦚
 | Topic                                  | Code                | Video                |
