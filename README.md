@@ -83,6 +83,7 @@
 | Support Vector Machine | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/svm/SVM.ipynb) | [YouTube](https://youtu.be/rXYcVEUL4gk) |
 | Principal Components Analysis | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-2/day-3-pca/Principal-Component-Analysis.ipynb) | [YouTube](https://youtu.be/nxki7yPvS5Q) |
 | k-Means Clustering |  | [YouTube](https://youtu.be/k0shoaaB9K4) |
+| Coach Lab - Class Imbalance & Model Evaluation | [link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-3/Class_imbalance_model_eval.ipynb) | [Slides](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-5/week-3/Methods%20of%20Model%20Evaluation.pdf) |
 
 # Module 6 🦚
 | Topic                                  | Code                | Video                |
