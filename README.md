@@ -89,7 +89,7 @@
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 | Hadoop-PySpark | [Link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-6/week-1/day-1-hadoop-pyspark/spark-ml.ipynb)  | [YouTube](https://www.youtube.com/watch?v=6o_bzoDcy8c) |
-| | | |
+| PySpark-Recommendation | [Link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-6/week-1/day-2-recommendation-systems/spark-als.ipynb) | [YouTube](https://www.youtube.com/watch?v=Vu2rCBzRFCc) |
 | | | |
 | | | |
 | | | |
