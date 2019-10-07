@@ -95,4 +95,5 @@
 | NLP - II | [Link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-6/week-2/day-2-nlp-2/nlp-classification.ipynb) | |
 | Cloud Platforms - AWS | | [YouTube](https://www.youtube.com/watch?v=sCZFFX3hhD8) |
 | Neural Networks - I | [Link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-6/week-2/day-5-neural-networks/neural_networks_intro.ipynb) | [YouTube](https://www.youtube.com/watch?v=OFBiqOAD1HY) |
+| Neural Networks - II (Keras) | [Link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-6/week-3/day-1-keras/intro-to-keras.ipynb) | [YouTube](https://www.youtube.com/watch?v=ikjQwwRDqi8) |
 
