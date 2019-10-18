@@ -98,3 +98,10 @@
 | Neural Networks - II (Keras) | [Link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-6/week-3/day-1-keras/intro-to-keras.ipynb) | [YouTube](https://www.youtube.com/watch?v=ikjQwwRDqi8) |
 | Neural Networks - III (CNN) | [Link](https://github.com/learn-co-students/dc-ds-071519/blob/master/Module-6/week-3/day-2-cnn/cnn.ipynb) | [YouTube](https://www.youtube.com/watch?v=CGftc0tqlz0) |
 
+
+# Module 7
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
+| Intro to Flask | [Link]() | [YouTube](https://www.youtube.com/watch?v=CihzwUF6czE) |
+| Coach Lab - Presentations | [Slides]() | [YouTube]() |
+
