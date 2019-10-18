@@ -103,5 +103,5 @@
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 | Intro to Flask | [Link]() | [YouTube](https://www.youtube.com/watch?v=CihzwUF6czE) |
-| Coach Lab - Presentations | [Slides]() | [YouTube]() |
+| Coach Lab - Presentations | [Slides](https://github.com/learn-co-students/dc-ds-071519/blob/master/Presentation.pdf) | [YouTube]() |
 
